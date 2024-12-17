@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "rekkice",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -13,4 +13,8 @@
     "astro": "^5.0.5",
     "tailwindcss": "^3.4.16"
   },
+  "engines": {
+    "node": ">=22",
+    "pnpm": ">=9"
+  }
 }
